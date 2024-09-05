@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="styles/style.css">
 </head>
 <body contenteditable="false" class="vsc-initialized">
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+
 
         <body>
             <div class="container">
@@ -19,7 +21,12 @@
             <div class="imgcontainer">
                 <img src="img/avater_placeholder.jpg" alt="Avatar" class="avatar">
               </div>
-          
+              <div id="g_id_onload"
+              data-client_id="YOUR_GOOGLE_CLIENT_ID"
+              data-login_uri="https://yourdomain.com/callback"
+              data-auto_prompt="false">
+         </div>
+         <div class="g_id_signin" data-type="standard"></div>
             <label for="email"><b>Email</b></label>
             <input type="text" placeholder="Enter Email" name="email" id="email" required>
         
@@ -35,7 +42,7 @@
           
           
           <div class="container signin">
-            <p>Already registered? <a href="#">log in</a>.</p>
+            <p>Already registered? <a href="pages/login.html">login</a></p>
             <p> <span class="psw">Forgot <a href="#">password?</a></span> </p>
           </div>
         </form>

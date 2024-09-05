@@ -36,5 +36,5 @@ meets these requirements before attempting to further expand your features.
 
 What are some  things I like about the jam board
 What are some things I do not like about the jam board
-
+Why should anyone choose boardlast - open source - 
 # References 
