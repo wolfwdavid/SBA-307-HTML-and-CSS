@@ -5,7 +5,10 @@ meets these requirements before attempting to further expand your features.
 
 # HTML Requirements
 
-* Have at least three pages.
+* Have at least three pages.[x]
+ - Login page
+ - Board Selector
+ - Main page
 Keep the grid system consistent between pages as much as possible.
 * Use at least ten different HTML tags.
 * Include at least one table.
@@ -28,4 +31,4 @@ Use at least two CSS animations.
 What are some  things I like about the jam board
 What are some things I do not like about the jam board
 
-# Refernce 
+# References 
