@@ -1,4 +1,4 @@
-#Technical Requirements
+#Technical Requirements#
 
 The requirements listed below are absolute minimums. Ensure that your website 
 meets these requirements before attempting to further expand your features.
