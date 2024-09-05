@@ -1,4 +1,4 @@
-# Technical Requirements#
+# Technical Requirements
 
 The requirements listed below are absolute minimums. Ensure that your website 
 meets these requirements before attempting to further expand your features.
@@ -6,9 +6,10 @@ meets these requirements before attempting to further expand your features.
 # HTML Requirements
 
 * Have at least three pages.[x]
- - Login page
- - Board Selector
- - Main page
+ * Login page
+ * Board Selector
+ * Main page
+
 Keep the grid system consistent between pages as much as possible.
 * Use at least ten different HTML tags.
 * Include at least one table.
