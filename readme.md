@@ -1,9 +1,9 @@
-Technical Requirements
+#Technical Requirements
 
 The requirements listed below are absolute minimums. Ensure that your website 
 meets these requirements before attempting to further expand your features.
 
-HTML Requirements
+#HTML Requirements
 
 *Have at least three pages.
 Keep the grid system consistent between pages as much as possible.
