@@ -6,9 +6,9 @@ meets these requirements before attempting to further expand your features.
 # HTML Requirements
 
 * Have at least three pages.[x]
- * Login page
- * Board Selector
- * Main page
+    * Login page
+    * Board Selector
+    * Main page
 
 Keep the grid system consistent between pages as much as possible.
 * Use at least ten different HTML tags.
@@ -21,13 +21,15 @@ Images.
 GIFs.
 (See resource links above for some free content of each of these types.)
 
-CSS Requirements
-Make use of inline, internal, and external styling.
-Use five different CSS selectors.
-Use colors that complement each other.
-Coolors is one of many resources that can help you find a color palette.
-Use Flexbox and/or the Bootstrap Grid.
-Use at least two CSS animations.
+
+# CSS Requirements
+
+* Make use of inline, internal, and external styling.
+* Use five different CSS selectors.
+* Use colors that complement each other.
+    * Coolors is one of many resources that can help you find a color palette.
+* Use Flexbox and/or the Bootstrap Grid.
+* Use at least two CSS animations.
 
 What are some  things I like about the jam board
 What are some things I do not like about the jam board
