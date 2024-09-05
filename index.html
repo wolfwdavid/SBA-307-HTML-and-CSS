@@ -4,9 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="styles/style.css">
 </head>
-<body>
-    This is a website
-    
-</body>
-</html>
+<body contenteditable="false" class="vsc-initialized">
+
+        <body>
+        
+        <form action="/action_page.php">
+            <div class="imgcontainer">
+                <img src="img/avater_placeholder.jpg" alt="Avatar" class="avatar">
+              </div>
+          <div class="container">
+            <h1>Register</h1>
+            <p>Please fill in this form to create an account.</p>
+            <hr>
+        
+            <label for="email"><b>Email</b></label>
+            <input type="text" placeholder="Enter Email" name="email" id="email" required>
+        
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+        
+            <label for="psw-repeat"><b>Repeat Password</b></label>
+            <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+            <hr>
+           
+        
+            <button type="submit" class="registerbtn">Register</button>
+          </div>
+          
+          <div class="container signin">
+            <p>Already registered? <a href="#">log in</a>.</p>
+          </div>
+        </form>
+        
+        </body>
+        </html>
+        
