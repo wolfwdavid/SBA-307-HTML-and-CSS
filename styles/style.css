@@ -1,3 +1,24 @@
+@keyframes example {
+  from {
+      background-color: #3498db;
+  }
+  to {
+      background-color: #2ecc71;
+  }
+}
+
+.transition-button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  animation: example 5s ease forwards;
+}
+
+
+
 .imgcontainer {
     text-align: center; 
     margin: 24px 0 12px 0; 
@@ -53,12 +74,13 @@
         
         
         .registerbtn {
-          background-color: #04AA6D;
+          background-color: #2b4b75;
           color: white;
           padding: 16px 20px;
           margin: 8px 0;
           border: none;
           cursor: pointer;
+        
           width: 100%;
           opacity: 0.9;
           

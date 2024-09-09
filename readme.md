@@ -40,3 +40,5 @@ What are some things I do not like about the jam board
 Why should anyone choose "Boardlast" - open source - 
 
 # References 
+* https://www.w3schools.com/
+* https://getbootstrap.com/
