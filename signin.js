@@ -8,5 +8,5 @@ async function verify(token) {
     });
     const payload = ticket.getPayload();
     const userId = payload['sub'];
-    console.log(payload); // The payload contains user info like email, name, etc.
+    console.log(payload); 
 }
