@@ -1,8 +1,9 @@
 Board Last!!!!
 # Tech Used
 # Description
+Google jam board is going to be discontinued in the later half of 2024. This an attempted to have an open source source code. (Use as intended)   
 <img src="img/test.gif">
- 
+
 # Technical Requirements
 
 The requirements listed below are absolute minimums. Ensure that your website 
