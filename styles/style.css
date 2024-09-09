@@ -20,7 +20,7 @@
         }
         
          {
-          box-sizing: border-box;
+          box-sizing:(0, 1, 1) border-box: (0, 1, 1)
         }
         
 
@@ -83,4 +83,3 @@
 
         
 
-/
