@@ -1,5 +1,5 @@
-Board Last
-tech used
+Board Last!!!!
+# Tech Used
 
 # Technical Requirements
 
@@ -15,6 +15,7 @@ meets these requirements before attempting to further expand your features.
     * Keep the grid system consistent between pages as much as possible.
 
 * Use at least ten different HTML tags.
+
 * Include at least one table.
 * Include at least two forms.
 * Include at least one dropdown menu.
@@ -36,5 +37,6 @@ meets these requirements before attempting to further expand your features.
 
 What are some  things I like about the jam board
 What are some things I do not like about the jam board
-Why should anyone choose boardlast - open source - 
+Why should anyone choose "Boardlast" - open source - 
+
 # References 

@@ -14,6 +14,7 @@
         
         
         body {
+          text-align: center;
           font-family: Arial, Helvetica, sans-serif;
           background-color: black;
         }
@@ -22,10 +23,11 @@
           box-sizing: border-box;
         }
         
+
         /* Add padding to containers */
         .container {
           padding: 16px;
-          background-color: white;
+          background-color: #e0e1ddff;
         }
         
         /* Full-width input fields */
@@ -59,8 +61,9 @@
           cursor: pointer;
           width: 100%;
           opacity: 0.9;
+          
         }
-        
+        /*Hover */ 
         .registerbtn:hover {
           opacity: 1;
         }
@@ -76,3 +79,8 @@
           text-align: center;
         }
         
+
+
+        
+
+/
